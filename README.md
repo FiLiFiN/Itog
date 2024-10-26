@@ -9,9 +9,9 @@
 В пункте ссылки есть ссылка на добавление статьи
 
 # Ссылки
-[YouTube](https://www.youtube.com/@FiLiFiN12)
-[Kodland](https://www.kodland.org/)
-[Создать статью](http://example.com/)
+* [YouTube](https://www.youtube.com/@FiLiFiN12)
+* [Kodland](https://www.kodland.org/)
+* [Создать статью](http://example.com/)
 
 # Содействие
 Мы призываем к действиям в борьбе с глобальным потеплением. Присоединяйтесь к нам и помогите сохранить нашу планету для будущих поколений.
